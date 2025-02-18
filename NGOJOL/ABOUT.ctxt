@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ABOUT
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ABOUT\ here.\r\n\ \r\n\ @author\ (Syalwa\ Aliya)\ \r\n\ @version\ (1.0)\r\n\ ig\ \:\ @syalwalyrh\r\n
+comment1.params=
+comment1.target=ABOUT()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ABOUT\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ About\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3
